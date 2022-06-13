@@ -1,4 +1,4 @@
-# 2️⃣DAY2-Tip-Calculator
+# 2️⃣DAY2 Tip Calculator 🖩
 
 Still from 100DaysofCode on Udemy by Angela
 
